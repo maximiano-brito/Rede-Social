@@ -1,0 +1,71 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:0px;
+    padding:0px;
+}
+
+.cabecalho{
+    height:100px;
+    margin-bottom:10px;
+    background-color: rgb(235, 42, 42);
+}
+
+header#logo{
+    float:left;
+    color:rgb(255, 255, 255);
+    width: 600px;
+    text-align: center;
+    margin-top:30px;
+    font-size:24px;
+}
+
+header#login{
+    float:left;
+    width: 600px;
+    text-align: right;
+    margin-top:30px;
+    margin-left:-80px;
+}
+
+.principal{
+    clear:both;
+    width:1200px;
+    height:700px;
+    margin:auto;
+}
+
+section#corpo{
+    float:left;
+    width:750px;
+    height: 550px;
+    background-color: rgb(197, 197, 197);
+    margin-bottom:30px;
+    padding:20px;
+    border-radius: 7px 7px 7px 7px;
+}
+
+img#mundo{
+    width:550px;
+    height:350px;
+    margin-left:105px;
+    margin-top:25px;
+}
+
+aside#lateral{
+    float:left;
+    width: 360px;
+    height:250px;
+    margin-left:10px;
+    background-color: rgb(75, 6, 6);
+    color: rgb(233, 230, 230);
+    padding:20px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+footer#rodape{
+    clear:both;
+    border-top:groove;
+    border-bottom:groove;
+    text-align: center;
+    margin-bottom: 25px;
+}
